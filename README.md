@@ -9,5 +9,4 @@ Hello everyone, welcome to Julia Landon's Water Security Website Hub! Here you c
 
 [Our Website for Information on Water Security]
 
-[Our Choose Your Own Adventure Game]
-(https://water.lionislost.com/cyoa)
+[Our Choose Your Own Adventure Game](https://water.lionislost.com/cyoa)
