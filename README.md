@@ -9,4 +9,4 @@ Hello everyone, welcome to Julia Landon's Water Security Website Hub! Here you c
 
 [Our Choose Your Own Adventure Game](https://water.lionislost.com/cyoa)
 
-[Source Code for Choose Your Own Adventure Game](https://github.com/lionfromlandon/lionfromlandon.github.io
+[Source Code for Choose Your Own Adventure Game](https://github.com/lionfromlandon/lionfromlandon.github.io)
